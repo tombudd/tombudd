@@ -21,11 +21,11 @@ I built [UNA](https://hello-una.ai) — an autonomous AI system with constitutio
 
 | System | Status |
 |--------|--------|
-| Active subsystems | **33** — all online |
-| Knowledge graph | **847k+ nodes**, growing daily |
-| Red team audits | Nightly, self-adversarial |
-| Quantum validation | Active inference on IBM hardware |
-| Alignment paper | **53,000 words** — 12 knowledge traditions mapped to governance |
+| Active subsystems | Multiple — all online |
+| Knowledge graph | Large-scale, growing daily |
+| Red team audits | Continuous, self-adversarial |
+| Quantum validation | Active inference on quantum hardware |
+| Alignment paper | Extensive — 12 knowledge traditions mapped to governance |
 
 > *The difference between "safe by design" and "safe by policy" is the difference between a bridge that holds and one that looks like it holds.*
 
@@ -62,7 +62,7 @@ ResoVerse is transitioning from solo R&D to a funded team. If any of these fit y
 
 - **Eudaimonic Alignment Framework** — maps eudaimonia, Eastern harmony traditions, and cognitive science to formal AI governance constraints. [Read it →](https://tombudd.com/research)
 - **Quantum Hardware Validation** — active inference formalism tested on real quantum backends. [See results →](https://tombudd.com/research#quantum)
-- **Architecture Overview** — how 33 subsystems coordinate under constitutional constraints. [Explore →](https://tombudd.com/architecture)
+- **Architecture Overview** — how constitutional constraints coordinate across a multi-subsystem design. [Explore →](https://tombudd.com/architecture)
 
 ---
 
