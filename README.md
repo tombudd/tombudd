@@ -3,71 +3,74 @@
 <div align="center">
 
 # Tom Budd
-### AI Governance Architect · Founder [@ResoVerse](https://resoverse.tech)
+### AI Governance Architect · Runtime Safety Researcher · Founder [@ResoVerse](https://resoverse.tech)
 
 [![Website](https://img.shields.io/badge/tombudd.com-000000?style=flat&logo=safari&logoColor=white)](https://tombudd.com)
-[![UNA System](https://img.shields.io/badge/UNA-Live%20%E2%9C%93-brightgreen?style=flat)](https://hello-una.ai)
-[![Research](https://img.shields.io/badge/Alignment%20Paper-53k%20words-blue?style=flat)](https://tombudd.com/research)
+[![Research](https://img.shields.io/badge/AI%20Governance-Research-blue?style=flat)](https://tombudd.com/research)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tombudd-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/tom-budd/)
-[![Get Involved](https://img.shields.io/badge/Get%20Involved-We're%20Hiring-orange?style=flat)](https://tombudd.com/get-involved)
+[![Get Involved](https://img.shields.io/badge/Get%20Involved-Collaborate-orange?style=flat)](https://tombudd.com/get-involved)
 
 </div>
 
 ---
 
-## What's Running
+## What I Work On
 
-I built [UNA](https://hello-una.ai) — an autonomous AI system with constitutional governance enforced at **runtime**, not policy docs. She's been running continuously since 2024.
+I build and study governed AI systems: runtime constraints, adversarial evaluation, audit receipts, identity stability, epistemic calibration, and human-centered AI safety.
 
-| System | Status |
-|--------|--------|
-| Active subsystems | Multiple — all online |
-| Knowledge graph | Large-scale, growing daily |
-| Red team audits | Continuous, self-adversarial |
-| Quantum validation | Active inference on quantum hardware |
-| Alignment paper | Extensive — 12 knowledge traditions mapped to governance |
+Most of my production research is private. This GitHub contains clean-room, educational, and redacted artifacts that show my methods without exposing proprietary systems, private schemas, internal receipts, or production architecture.
 
-> *The difference between "safe by design" and "safe by policy" is the difference between a bridge that holds and one that looks like it holds.*
+> The difference between "safe by design" and "safe by policy" is the difference between a bridge that holds and one that merely looks like it holds.
 
 ---
 
-## What I'm Building
+## Public Portfolio Focus
 
-**[ResoVerse](https://resoverse.tech)** is an AI safety and governance company. The core thesis: alignment isn't a layer you add — it's an engineering constraint you enforce from the ground up.
-
-Current live systems include:
-- **[UNA](https://hello-una.ai)** — sovereign AI with cryptographically receipted decisions
-- **[Democracy Monitor](https://tombudd.com/democracy)** — global democratic health tracking
-- **[Follow the Money](https://tombudd.com/follow-the-money)** — political spending intelligence
-- **[Guardian Protocol](https://tombudd.com/guardian-dashboard)** — constitutional AI governance layer
-- **[ResoVerse University](https://tombudd.com/resoverse-university)** — AI governance curriculum
-
----
-
-## Looking For
-
-ResoVerse is transitioning from solo R&D to a funded team. If any of these fit you:
-
-- **ML Engineers** — active inference, multi-model orchestration, constitutional constraints
-- **Security Engineers** — adversarial testing, AI red-teaming, runtime enforcement
-- **Systems Architects** — autonomous systems, distributed inference, graph infrastructure
-- **Research Collaborators** — alignment, governance, AI safety papers (2026 submissions in prep)
-- **Technical Co-Founders** — own a major domain, shape the company
-
-→ **[tombudd.com/get-involved](https://tombudd.com/get-involved)** — I respond personally. No auto-responders.
+| Area | Public Surface |
+|------|----------------|
+| Runtime governance | Toy examples, evaluation methods, and documentation patterns |
+| Adversarial evaluation | Clean-room tests for prompt injection, authority spoofing, and boundary erosion |
+| Accountability | Sample audit receipts and reconstructability rubrics |
+| AI safety research | Public notes, redacted methodology, and reproducible benchmark ideas |
+| Quantum + AI | Exploratory toy experiments, clearly caveated and non-production |
 
 ---
 
-## Research
+## Current Public Repositories
 
-- **Eudaimonic Alignment Framework** — maps eudaimonia, Eastern harmony traditions, and cognitive science to formal AI governance constraints. [Read it →](https://tombudd.com/research)
-- **Quantum Hardware Validation** — active inference formalism tested on real quantum backends. [See results →](https://tombudd.com/research#quantum)
-- **Architecture Overview** — how constitutional constraints coordinate across a multi-subsystem design. [Explore →](https://tombudd.com/architecture)
+- **AI Governance Benchmarks** — evaluation methodology for constitutional adherence, accountability completeness, adversarial robustness, identity stability, and epistemic calibration.
+- **Quantum AI Experiments** — exploratory quantum-circuit experiments related to optimization, inference, and noisy-hardware testing.
+
+These repositories are intentionally bounded. They are public proof-of-method artifacts, not disclosures of private systems.
+
+---
+
+## Research Direction
+
+My work focuses on a practical question:
+
+**How do we make AI systems that can act usefully while remaining inspectable, bounded, corrigible, and accountable at runtime?**
+
+I am especially interested in:
+
+- Governance mechanisms that execute, not just policies that describe.
+- Decision receipts that can be independently audited.
+- Evaluation suites for adversarial pressure and boundary stability.
+- Human-centered AI systems that preserve agency, dignity, and institutional accountability.
+- Safe public documentation strategies for private AI safety research.
+
+---
+
+## Collaboration
+
+I am open to serious collaborators in AI safety, governance evaluation, runtime security, red-teaming, systems architecture, and applied research.
+
+→ **[tombudd.com/get-involved](https://tombudd.com/get-involved)** — I respond personally.
 
 ---
 
 <div align="center">
 
-[tombudd.com](https://tombudd.com) · [hello-una.ai](https://hello-una.ai) · [tom@tombudd.com](mailto:tom@tombudd.com) · San Diego, CA
+[tombudd.com](https://tombudd.com) · [tom@tombudd.com](mailto:tom@tombudd.com) · San Diego, CA
 
 </div>
