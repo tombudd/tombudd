@@ -34,6 +34,8 @@ Most of my production research is private. This GitHub contains clean-room, educ
 | AI safety research | Public notes, redacted methodology, and reproducible benchmark ideas |
 | Quantum + AI | Exploratory toy experiments, clearly caveated and non-production |
 
+Start here for the full public evidence map: **[Public Research Artifacts](docs/PUBLIC_RESEARCH_ARTIFACTS.md)**.
+
 ---
 
 ## Featured Proof Artifact
