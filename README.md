@@ -55,11 +55,22 @@ Start with:
 - [Recruiter Summary](https://github.com/tombudd/ai-governance-benchmarks/blob/main/docs/RECRUITER_SUMMARY.md)
 - [Hiring Proof Map](https://github.com/tombudd/ai-governance-benchmarks/blob/main/docs/HIRING_PROOF_MAP.md)
 
+**[Agent Action Audit Template](https://github.com/tombudd/agent-action-audit-template)** — clean-room templates for synthetic agent action receipts, blocked-action examples, human-review metadata, JSON schemas, and pytest validation.
+
+Shows:
+
+- agent action audit trail design
+- safe vs. blocked action records
+- human review checkpoint modeling
+- schema-backed receipt validation
+- synthetic-only public boundary discipline
+
 ---
 
 ## Current Public Repositories
 
 - **AI Governance Benchmarks** — clean-room benchmark portfolio with synthetic Constitutional Adherence and Accountability Completeness evaluations, local runners, scoring, expected reports, tests, and CI.
+- **Agent Action Audit Template** — clean-room operational governance template with synthetic safe and blocked action receipts, human-review metadata, schemas, tests, and CI.
 - **Quantum AI Experiments** — exploratory quantum-circuit experiments related to optimization, inference, and noisy-hardware testing.
 
 These repositories are intentionally bounded. They are public proof-of-method artifacts, not disclosures of private systems.
