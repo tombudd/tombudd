@@ -3,7 +3,7 @@
 <div align="center">
 
 # Tom Budd
-### AI Safety & Governance Builder · AI Evaluation Engineer · Founder [@ResoVerse](https://resoverse.tech)
+### AI Safety & Governance Builder · AI Evaluation Engineer
 
 [![Website](https://img.shields.io/badge/tombudd.com-000000?style=flat&logo=safari&logoColor=white)](https://tombudd.com)
 [![Research](https://img.shields.io/badge/AI%20Governance-Research-blue?style=flat)](https://tombudd.com/research)
@@ -79,6 +79,12 @@ I am especially interested in:
 - Evaluation suites for adversarial pressure and boundary stability.
 - Human-centered AI systems that preserve agency, dignity, and institutional accountability.
 - Safe public documentation strategies for private AI safety research.
+
+---
+
+## Background
+
+I am the founder of [ResoVerse](https://resoverse.tech), where my private production research informs the public-safe methods and proof artifacts shared here.
 
 ---
 
