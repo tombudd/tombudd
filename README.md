@@ -20,7 +20,7 @@ I build clean-room public artifacts for reproducible AI evaluation, auditability
 
 Most of my production research is private. This GitHub contains clean-room, educational, and redacted artifacts that show my methods without exposing proprietary systems, private schemas, private logs, private records, or production architecture.
 
-> The difference between "safe by design" and "safe by policy" is the difference between a bridge that holds and one that merely looks like it holds.
+> My goal with these repos is simple: make AI governance claims inspectable instead of just aspirational.
 
 ---
 
