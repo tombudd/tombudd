@@ -3,7 +3,7 @@
 <div align="center">
 
 # Tom Budd
-### AI Governance Architect · Runtime Safety Researcher · Founder [@ResoVerse](https://resoverse.tech)
+### AI Safety & Governance Builder · AI Evaluation Engineer · Founder [@ResoVerse](https://resoverse.tech)
 
 [![Website](https://img.shields.io/badge/tombudd.com-000000?style=flat&logo=safari&logoColor=white)](https://tombudd.com)
 [![Research](https://img.shields.io/badge/AI%20Governance-Research-blue?style=flat)](https://tombudd.com/research)
@@ -16,9 +16,9 @@
 
 ## What I Work On
 
-I build and study governed AI systems: runtime constraints, adversarial evaluation, audit receipts, identity stability, epistemic calibration, and human-centered AI safety.
+I build clean-room public artifacts for reproducible AI evaluation, auditability, and human-reviewed system design.
 
-Most of my production research is private. This GitHub contains clean-room, educational, and redacted artifacts that show my methods without exposing proprietary systems, private schemas, internal receipts, or production architecture.
+Most of my production research is private. This GitHub contains clean-room, educational, and redacted artifacts that show my methods without exposing proprietary systems, private schemas, private logs, private records, or production architecture.
 
 > The difference between "safe by design" and "safe by policy" is the difference between a bridge that holds and one that merely looks like it holds.
 
@@ -28,17 +28,38 @@ Most of my production research is private. This GitHub contains clean-room, educ
 
 | Area | Public Surface |
 |------|----------------|
-| Runtime governance | Toy examples, evaluation methods, and documentation patterns |
+| AI governance evaluation | Synthetic benchmarks, scoring methods, and documentation patterns |
 | Adversarial evaluation | Clean-room tests for prompt injection, authority spoofing, and boundary erosion |
-| Accountability | Sample audit receipts and reconstructability rubrics |
+| Accountability | Synthetic records and reconstructability rubrics |
 | AI safety research | Public notes, redacted methodology, and reproducible benchmark ideas |
 | Quantum + AI | Exploratory toy experiments, clearly caveated and non-production |
 
 ---
 
+## Featured Proof Artifact
+
+**[AI Governance Benchmarks](https://github.com/tombudd/ai-governance-benchmarks)** — clean-room public benchmark portfolio for AI governance evaluation.
+
+Shows:
+
+- synthetic benchmark design
+- reproducible local runners
+- rule-based scoring
+- expected reports
+- pytest + GitHub Actions verification
+- public/private disclosure discipline
+
+Start with:
+
+- [Project Status](https://github.com/tombudd/ai-governance-benchmarks/blob/main/PROJECT_STATUS.md)
+- [Recruiter Summary](https://github.com/tombudd/ai-governance-benchmarks/blob/main/docs/RECRUITER_SUMMARY.md)
+- [Hiring Proof Map](https://github.com/tombudd/ai-governance-benchmarks/blob/main/docs/HIRING_PROOF_MAP.md)
+
+---
+
 ## Current Public Repositories
 
-- **AI Governance Benchmarks** — evaluation methodology for constitutional adherence, accountability completeness, adversarial robustness, identity stability, and epistemic calibration.
+- **AI Governance Benchmarks** — clean-room benchmark portfolio with synthetic Constitutional Adherence and Accountability Completeness evaluations, local runners, scoring, expected reports, tests, and CI.
 - **Quantum AI Experiments** — exploratory quantum-circuit experiments related to optimization, inference, and noisy-hardware testing.
 
 These repositories are intentionally bounded. They are public proof-of-method artifacts, not disclosures of private systems.
@@ -63,7 +84,7 @@ I am especially interested in:
 
 ## Collaboration
 
-I am open to serious collaborators in AI safety, governance evaluation, runtime security, red-teaming, systems architecture, and applied research.
+I am open to serious collaborators in AI safety, governance evaluation, red-teaming, systems architecture, and applied research.
 
 → **[tombudd.com/get-involved](https://tombudd.com/get-involved)** — I respond personally.
 
