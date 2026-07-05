@@ -1,6 +1,6 @@
 # Public AI Governance Portfolio
 
-This public portfolio presents three public projects that connect research framing, evaluation design, and reviewable records.
+This public portfolio presents public projects that connect research framing, evaluation design, reviewable records, and human-AI workflow gates.
 
 - [Case Study: AI Governance Benchmarks](CASE_STUDY_AI_GOVERNANCE_BENCHMARKS.md)
 
@@ -12,4 +12,6 @@ This public portfolio presents three public projects that connect research frami
 
 **Agent Action Audit Template** shows how AI-assisted actions can be represented as reviewable records with schema validation, examples, review metadata, and tests.
 
-Together, these projects demonstrate public research framing, measurable evaluation design, and operational reviewability using synthetic examples and public-safe documentation.
+**Human-AI Governance Lab** demonstrates a clean-room workflow for lightweight risk classification, human approval gates, and reproducible audit receipts.
+
+Together, these projects demonstrate public research framing, measurable evaluation design, operational reviewability, and human-in-the-loop governance using synthetic examples and public-safe documentation.

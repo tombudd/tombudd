@@ -91,6 +91,7 @@ Shows:
 
 - **AI Governance Benchmarks** — clean-room benchmark portfolio with synthetic Constitutional Adherence and Accountability Completeness evaluations, local runners, scoring, expected reports, tests, and CI.
 - **Agent Action Audit Template** — clean-room operational governance template with synthetic safe and blocked action receipts, human-review metadata, schemas, tests, and CI.
+- **Human-AI Governance Lab** — clean-room workflow for lightweight risk classification, human approval gates, and reproducible audit receipts.
 - **Quantum AI Experiments** — exploratory quantum-circuit experiments related to optimization, inference, and noisy-hardware testing.
 
 These repositories are intentionally bounded. They are public proof-of-method artifacts, not disclosures of private systems.
