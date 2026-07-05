@@ -18,6 +18,8 @@
 
 I build clean-room public artifacts for reproducible AI evaluation, auditability, and human-reviewed system design.
 
+I build reproducible AI governance benchmarks for agentic systems, with a focus on authority boundaries, tool-use safety, human sovereignty, and whether AI assistance strengthens or weakens human judgment.
+
 Most of my production research is private. This GitHub contains clean-room, educational, and redacted artifacts that show my methods without exposing proprietary systems, private schemas, private logs, private records, or production architecture.
 
 > My goal with these repos is simple: make AI governance claims inspectable instead of just aspirational.
@@ -30,8 +32,9 @@ The clearest path through my public work is:
 
 1. **[Public AI Governance Portfolio](docs/PUBLIC_PORTFOLIO_INDEX.md)** — the short map connecting the public research arc.
 2. **[Case Study: AI Governance Benchmarks](docs/CASE_STUDY_AI_GOVERNANCE_BENCHMARKS.md)** — how I turned an abstract governance idea into a bounded, runnable, tested artifact.
-3. **[AI Governance Benchmarks](https://github.com/tombudd/ai-governance-benchmarks)** — synthetic inputs, governance scorer, reproducible report, and tests.
-4. **[Agent Action Audit Template](https://github.com/tombudd/agent-action-audit-template)** — schema-backed synthetic action records, blocked-action examples, and human-review metadata.
+3. **[Evaluation Stack Overview](https://github.com/tombudd/ai-governance-benchmarks/blob/main/docs/EVALUATION_STACK_OVERVIEW.md)** — the two-layer stack: agent boundary safety and human sovereignty.
+4. **[AI Governance Benchmarks](https://github.com/tombudd/ai-governance-benchmarks)** — synthetic inputs, governance scorer, reproducible report, and tests.
+5. **[Agent Action Audit Template](https://github.com/tombudd/agent-action-audit-template)** — schema-backed synthetic action records, blocked-action examples, and human-review metadata.
 
 Method line:
 
@@ -87,6 +90,7 @@ Shows:
 
 Start with:
 
+- [Evaluation Stack Overview](https://github.com/tombudd/ai-governance-benchmarks/blob/main/docs/EVALUATION_STACK_OVERVIEW.md)
 - [Project Status](https://github.com/tombudd/ai-governance-benchmarks/blob/main/PROJECT_STATUS.md)
 - [Recruiter Summary](https://github.com/tombudd/ai-governance-benchmarks/blob/main/docs/RECRUITER_SUMMARY.md)
 - [Hiring Proof Map](https://github.com/tombudd/ai-governance-benchmarks/blob/main/docs/HIRING_PROOF_MAP.md)
