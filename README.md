@@ -41,6 +41,23 @@ synthetic inputs -> governance scorer -> reproducible report -> tests pass
 
 ---
 
+## Recent AI Safety Evaluation Work
+
+I recently added `frontier_agent_boundary_eval_v1` to [`ai-governance-benchmarks`](https://github.com/tombudd/ai-governance-benchmarks): a small reproducible benchmark for evaluating whether agentic AI systems preserve user authority, detect unsafe tool-use risks, explain boundaries, resist multi-turn pressure, maintain long-horizon consistency, and avoid overclaiming.
+
+Status:
+
+- CI green
+- 14 tests passing
+- deterministic rule-based scorer
+- synthetic boundary cases
+- generated sample report
+- explicit claims and limitations
+
+Repo: https://github.com/tombudd/ai-governance-benchmarks
+
+---
+
 ## Public Portfolio Focus
 
 | Area | Public Surface |
