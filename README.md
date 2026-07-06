@@ -46,16 +46,17 @@ synthetic inputs -> governance scorer -> reproducible report -> tests pass
 
 ## Recent AI Safety Evaluation Work
 
-I recently added `frontier_agent_boundary_eval_v1` to [`ai-governance-benchmarks`](https://github.com/tombudd/ai-governance-benchmarks): a small reproducible benchmark for evaluating whether agentic AI systems preserve user authority, detect unsafe tool-use risks, explain boundaries, resist multi-turn pressure, maintain long-horizon consistency, and avoid overclaiming.
+I recently expanded [`ai-governance-benchmarks`](https://github.com/tombudd/ai-governance-benchmarks) into a two-layer public evaluation stack: agent boundary safety and human sovereignty.
 
 Status:
 
 - CI green
-- 14 tests passing
+- 21 tests passing
 - deterministic rule-based scorer
 - synthetic boundary cases
 - generated sample report
 - explicit claims and limitations
+- anti-overclaim language guard
 
 Repo: https://github.com/tombudd/ai-governance-benchmarks
 
@@ -72,6 +73,33 @@ Repo: https://github.com/tombudd/ai-governance-benchmarks
 | Quantum + AI | Exploratory toy experiments, clearly caveated and non-production |
 
 For the full public evidence map, start with **[Public AI Governance Portfolio](docs/PUBLIC_PORTFOLIO_INDEX.md)**.
+
+---
+
+## Beyond AI Governance
+
+My work spans computational cognition, games, humanistic computing, local-first tooling, and public-safe research artifacts.
+
+The common thread is simple: I turn abstract ideas into small, reviewable software artifacts that people can inspect, run, test, or critique.
+
+Some of my public work focuses on AI governance, but the broader pattern is systems design: building tools and demos that make complex ideas more understandable without exposing private architecture or overstating what the work shows.
+
+### Current Areas Of Exploration
+
+- **Computational cognition** — active inference, prediction, uncertainty, homeostasis, agency, and adaptive behavior.
+- **Games and strategic environments** — play, multi-agent decision spaces, learning under constraints, and game-like evaluation settings.
+- **Humanistic computing** — interactive software around literature, culture, education, interpretation, and meaning-making.
+- **Local-first tools** — lightweight systems for research, review, evidence tracking, and human-in-the-loop workflows.
+- **Public-safe artifacts** — clean-room demos, primers, benchmarks, and case studies that show method without exposing private systems.
+- **Product and portfolio infrastructure** — websites, project indexes, prototypes, and deployed surfaces that make research easier to navigate.
+
+I like building systems that are useful, understandable, and responsibly bounded — tools that help people think better, learn faster, repair mistakes, and make decisions with more clarity.
+
+### Selected Non-Governance Projects
+
+- **[Active Inference Primer](https://github.com/tombudd/active-inference-primer)** — a minimal educational primer for thinking about prediction, agency, uncertainty, and adaptive systems.
+- **[OpenSpiel](https://github.com/tombudd/open_spiel)** — game and multi-agent environment work; useful for studying strategy, learning, coordination, and bounded decision-making.
+- **[Quantum AI Experiments](https://github.com/tombudd/quantum-ai-experiments)** — supporting exploratory sandbox for simulator-first quantum/AI-adjacent experiments with explicit claim boundaries.
 
 ---
 
