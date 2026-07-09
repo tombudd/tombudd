@@ -70,6 +70,8 @@ Repo: https://github.com/tombudd/ai-governance-benchmarks
 | Adversarial evaluation | Clean-room tests for prompt injection, authority spoofing, and boundary erosion |
 | Accountability | Synthetic records and reconstructability rubrics |
 | AI safety research | Public notes, redacted methodology, and reproducible benchmark ideas |
+| Computational cognition | Active inference primers and small adaptive-systems examples |
+| Humanistic computing | Public-safe literature and cultural-memory artifacts |
 | Quantum + AI | Exploratory toy experiments, clearly caveated and non-production |
 
 For the full public evidence map, start with **[Public AI Governance Portfolio](docs/PUBLIC_PORTFOLIO_INDEX.md)**.
@@ -98,6 +100,8 @@ I like building systems that are useful, understandable, and responsibly bounded
 ### Selected Non-Governance Projects
 
 - **[Active Inference Primer](https://github.com/tombudd/active-inference-primer)** — a minimal educational primer for thinking about prediction, agency, uncertainty, and adaptive systems.
+- **[Eudaimonic Alignment](https://github.com/tombudd/eudaimonic-alignment)** — public research notes connecting human flourishing, agency, ethical traditions, and alignment/governance questions.
+- **[Shakespeare Public Artifact](docs/SHAKESPEARE_PUBLIC_ARTIFACT.md)** — a clean humanistic-computing artifact for exploring Shakespeare education, interpretation, and cultural memory.
 - **[Quantum AI Experiments](https://github.com/tombudd/quantum-ai-experiments)** — supporting exploratory sandbox for simulator-first quantum/AI-adjacent experiments with explicit claim boundaries.
 
 ---
