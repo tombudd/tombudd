@@ -71,7 +71,7 @@ Repo: https://github.com/tombudd/ai-governance-benchmarks
 | Accountability | Synthetic records and reconstructability rubrics |
 | AI safety research | Public notes, redacted methodology, and reproducible benchmark ideas |
 | Computational cognition | Active inference primers and small adaptive-systems examples |
-| Humanistic computing | Public-safe literature and cultural-memory artifacts |
+| Human flourishing / values | Eudaimonic alignment notes and public-safe theory artifacts |
 | Quantum + AI | Exploratory toy experiments, clearly caveated and non-production |
 
 For the full public evidence map, start with **[Public AI Governance Portfolio](docs/PUBLIC_PORTFOLIO_INDEX.md)**.
@@ -80,7 +80,7 @@ For the full public evidence map, start with **[Public AI Governance Portfolio](
 
 ## Beyond AI Governance
 
-My work spans computational cognition, games, humanistic computing, local-first tooling, and public-safe research artifacts.
+My work spans computational cognition, human flourishing, local-first tooling, public-safe research artifacts, and careful technical exploration.
 
 The common thread is simple: I turn abstract ideas into small, reviewable software artifacts that people can inspect, run, test, or critique.
 
@@ -89,8 +89,7 @@ Some of my public work focuses on AI governance, but the broader pattern is syst
 ### Current Areas Of Exploration
 
 - **Computational cognition** — active inference, prediction, uncertainty, homeostasis, agency, and adaptive behavior.
-- **Games and strategic environments** — play, multi-agent decision spaces, learning under constraints, and game-like evaluation settings.
-- **Humanistic computing** — interactive software around literature, culture, education, interpretation, and meaning-making.
+- **Human flourishing and values** — public-safe theory artifacts around agency, meaning, dignity, and alignment questions.
 - **Local-first tools** — lightweight systems for research, review, evidence tracking, and human-in-the-loop workflows.
 - **Public-safe artifacts** — clean-room demos, primers, benchmarks, and case studies that show method without exposing private systems.
 - **Product and portfolio infrastructure** — websites, project indexes, prototypes, and deployed surfaces that make research easier to navigate.
@@ -99,10 +98,9 @@ I like building systems that are useful, understandable, and responsibly bounded
 
 ### Selected Non-Governance Projects
 
-- **[Active Inference Primer](https://github.com/tombudd/active-inference-primer)** — a minimal educational primer for thinking about prediction, agency, uncertainty, and adaptive systems.
-- **[Eudaimonic Alignment](https://github.com/tombudd/eudaimonic-alignment)** — public research notes connecting human flourishing, agency, ethical traditions, and alignment/governance questions.
-- **[Shakespeare Public Artifact](docs/SHAKESPEARE_PUBLIC_ARTIFACT.md)** — a clean humanistic-computing artifact for exploring Shakespeare education, interpretation, and cultural memory.
-- **[Quantum AI Experiments](https://github.com/tombudd/quantum-ai-experiments)** — supporting exploratory sandbox for simulator-first quantum/AI-adjacent experiments with explicit claim boundaries.
+- **[Active Inference Primer](https://github.com/tombudd/active-inference-primer)** — `research notes / runnable utilities` — a minimal educational primer for thinking about prediction, agency, uncertainty, and adaptive systems.
+- **[Eudaimonic Alignment](https://github.com/tombudd/eudaimonic-alignment)** — `research notes` — public notes connecting human flourishing, agency, ethical traditions, and alignment/governance questions.
+- **[Quantum AI Experiments](https://github.com/tombudd/quantum-ai-experiments)** — `sandbox` — simulator-first experiments at the edge of quantum computing, inference, and optimization, with explicit claim boundaries.
 
 ---
 
@@ -123,8 +121,7 @@ Start with:
 
 - [Evaluation Stack Overview](https://github.com/tombudd/ai-governance-benchmarks/blob/main/docs/EVALUATION_STACK_OVERVIEW.md)
 - [Project Status](https://github.com/tombudd/ai-governance-benchmarks/blob/main/PROJECT_STATUS.md)
-- [Recruiter Summary](https://github.com/tombudd/ai-governance-benchmarks/blob/main/docs/RECRUITER_SUMMARY.md)
-- [Hiring Proof Map](https://github.com/tombudd/ai-governance-benchmarks/blob/main/docs/HIRING_PROOF_MAP.md)
+- [Scope Notes](https://github.com/tombudd/ai-governance-benchmarks/blob/main/docs/SCOPE_NOTES.md)
 - [Case Study](docs/CASE_STUDY_AI_GOVERNANCE_BENCHMARKS.md)
 
 **[Agent Action Audit Template](https://github.com/tombudd/agent-action-audit-template)** — clean-room templates for synthetic agent action receipts, blocked-action examples, human-review metadata, JSON schemas, and pytest validation.
