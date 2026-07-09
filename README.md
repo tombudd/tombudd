@@ -3,7 +3,7 @@
 <div align="center">
 
 # Tom Budd
-### AI Safety & Governance Builder · AI Evaluation Engineer
+### Research-Grounded Systems Builder · AI Safety & Governance Engineer
 
 [![Website](https://img.shields.io/badge/tombudd.com-000000?style=flat&logo=safari&logoColor=white)](https://tombudd.com)
 [![Research](https://img.shields.io/badge/AI%20Governance-Research-blue?style=flat)](https://tombudd.com/research)
@@ -16,7 +16,7 @@
 
 ## What I Work On
 
-I build clean-room public artifacts for reproducible AI evaluation, auditability, and human-reviewed system design.
+I build small, reviewable software artifacts that turn difficult ideas into things people can inspect, run, test, or critique.
 
 I build reproducible AI governance benchmarks for agentic systems, with a focus on authority boundaries, tool-use safety, human sovereignty, and whether AI assistance strengthens or weakens human judgment.
 
@@ -141,6 +141,8 @@ Shows:
 - **AI Governance Benchmarks** — clean-room benchmark portfolio with synthetic Constitutional Adherence and Accountability Completeness evaluations, local runners, scoring, expected reports, tests, and CI.
 - **Agent Action Audit Template** — clean-room operational governance template with synthetic safe and blocked action receipts, human-review metadata, schemas, tests, and CI.
 - **Human-AI Governance Lab** — clean-room workflow for lightweight risk classification, human approval gates, and reproducible audit receipts.
+- **Eudaimonic Alignment** — public research notes connecting alignment, human sovereignty, flourishing, and governance evaluation.
+- **Active Inference Primer** — minimal educational free-energy utilities with synthetic numerical tests and explicit limitations.
 - **Quantum AI Experiments** — exploratory quantum-circuit experiments related to optimization, inference, and noisy-hardware testing.
 
 These repositories are intentionally bounded. They are public proof-of-method artifacts, not disclosures of private systems.
