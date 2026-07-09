@@ -98,7 +98,6 @@ I like building systems that are useful, understandable, and responsibly bounded
 ### Selected Non-Governance Projects
 
 - **[Active Inference Primer](https://github.com/tombudd/active-inference-primer)** — a minimal educational primer for thinking about prediction, agency, uncertainty, and adaptive systems.
-- **[OpenSpiel](https://github.com/tombudd/open_spiel)** — game and multi-agent environment work; useful for studying strategy, learning, coordination, and bounded decision-making.
 - **[Quantum AI Experiments](https://github.com/tombudd/quantum-ai-experiments)** — supporting exploratory sandbox for simulator-first quantum/AI-adjacent experiments with explicit claim boundaries.
 
 ---
@@ -167,7 +166,7 @@ I am especially interested in:
 
 ## Background
 
-I am the founder of [ResoVerse](https://resoverse.tech), where my private production research informs the public-safe methods and proof artifacts shared here.
+I am the founder of [ResoVerse](https://resoverse.io), where my private production research informs the public-safe methods and proof artifacts shared here.
 
 ---
 
