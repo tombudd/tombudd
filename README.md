@@ -60,6 +60,8 @@ Start with:
 - **[Eudaimonic Alignment](https://github.com/tombudd/eudaimonic-alignment)** — `RESEARCH_NOTES` — public research notes on human flourishing, agency, and alignment/governance questions.
 - **[Quantum AI Experiments](https://github.com/tombudd/quantum-ai-experiments)** — `SANDBOX` — simulator-first quantum/AI-adjacent experiments with explicit claim boundaries.
 
+See [Projects](docs/PROJECTS.md) for a compact matrix of public, inspectable work.
+
 ---
 
 ## Contact
